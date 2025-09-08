@@ -1,5 +1,5 @@
 # win10-11-7-AutoInstallTool0.1
-自动安装软件
+半自动安装软件
 # win10 11 7自动安装软件AutoInstallTool0.1 使用教程
 
 ## 简介
